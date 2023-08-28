@@ -1,0 +1,19 @@
+{
+    "automerge": false,
+    "branchConcurrentLimit": 0,
+    "branchNameStrict": true,
+    "packageRules": [
+        {
+            "groupName": "all dependencies",
+            "groupSlug": "all-dependencies",
+            "matchPackagePatterns": [
+                "*"
+            ]
+        }
+    ],
+    "prConcurrentLimit": 0,
+    "prHourlyLimit": 0,
+    "requireConfig": "optional",
+    "separateMajorMinor": false,
+    "separateMinorPatch": false
+}
